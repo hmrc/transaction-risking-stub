@@ -2,3 +2,5 @@ repoVisibility: public_0C3F0CE3E6E6448FAD341E7BFA50FCD333E06A20CFF05FCACE61154DD
 type: service
 service-type: backend
 tags: []
+deprecated: true
+end-of-life-date: 2026-10-23T00:00:00Z
