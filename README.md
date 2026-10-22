@@ -1,7 +1,7 @@
 
 # transaction-risking-stub
 
-This is a placeholder README.md for a new repository
+**This REPO is being deprecated visit: HMRC/MTD-Transaction-Risking-Stub
 
 ### License
 
