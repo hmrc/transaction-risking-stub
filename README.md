@@ -1,7 +1,7 @@
 
 # transaction-risking-stub
 
-**This REPO is being deprecated visit: HMRC/MTD-Transaction-Risking-Stub
+*This REPO is being deprecated visit: HMRC/MTD-Transaction-Risking-Stub*
 
 ### License
 
