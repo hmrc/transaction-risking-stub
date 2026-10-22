@@ -3,4 +3,4 @@ type: service
 service-type: backend
 tags: []
 deprecated: true
-end-of-life-date: 2026-10-22
+end-of-life-date: 2026-10-23T00:00:00Z
